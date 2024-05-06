@@ -1,0 +1,7 @@
+initial_health: 20
+initial_hunger: 20
+initial_clean: 20
+image_resources:
+  play: dogplay
+  eat: dogeat
+  bath: dogbath
