@@ -45,9 +45,6 @@ class MainActivity2 : AppCompatActivity() {
         healthTextView.setText(initialHealth.toString())
         cleanTextView.setText(initialClean.toString())
 
-
-
-
         playButton.setOnClickListener {
             initialHunger -= 10
             initialClean -= 10
